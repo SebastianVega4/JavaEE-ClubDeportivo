@@ -1,0 +1,12 @@
+co/edu/uptc/model/Evento.class
+co/edu/uptc/proyectoweb/Afiliado.class
+co/edu/uptc/model/Afiliado.class
+co/edu/uptc/proyectoweb/Evento.class
+servlets/AjaxServlet$1.class
+co/edu/uptc/proyectoweb/Disciplina.class
+co/edu/uptc/persistence/MongoDBManager.class
+servlets/ConsulServlet.class
+servlets/AjaxServlet.class
+co/edu/uptc/model/Disciplina.class
+co/edu/uptc/persistence/DAOafiliado.class
+co/edu/uptc/proyectoweb/MongoDBManager.class

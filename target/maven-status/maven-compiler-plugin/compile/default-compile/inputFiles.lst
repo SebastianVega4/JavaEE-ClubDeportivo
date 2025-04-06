@@ -1,0 +1,11 @@
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/model/Afiliado.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/model/Disciplina.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/model/Evento.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/persistence/DAOafiliado.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/persistence/MongoDBManager.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/proyectoweb/Afiliado.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/proyectoweb/Disciplina.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/proyectoweb/Evento.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/co/edu/uptc/proyectoweb/MongoDBManager.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/servlets/AjaxServlet.java
+/home/sebastianvega/Descargas/GitHub/Universidad/Programacion III/2DO 50%/ProyectoWeb/src/main/java/servlets/ConsulServlet.java
