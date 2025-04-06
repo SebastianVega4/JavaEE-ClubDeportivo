@@ -108,6 +108,9 @@ Desarrollado por **Sebastián Vega**
 🔗 [LinkedIn - Johan Sebastián Vega Ruiz](https://www.linkedin.com/in/johan-sebastian-vega-ruiz-b1292011b/)
 
 ---
-
-© 2022 — Universidad Pedagógica y Tecnológica de Colombia (UPTC)  
+ 
 Facultad de Ingeniería — Ingeniería de Sistemas 🧩
+**🏫 Universidad Pedagógica y Tecnológica de Colombia**  
+📍 Sogamoso, Boyacá 📍
+
+© 2025 — Sebastian Vega
