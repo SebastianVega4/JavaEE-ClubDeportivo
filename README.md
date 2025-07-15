@@ -74,7 +74,7 @@ La información es enviada a los Servlets correspondientes, los cuales gestionan
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tuUsuario/ClubDeportivoWebApp.git
+git clone https://github.com/SebastianVega4/JavaEE-ClubDeportivo.git
 ```
 
 2. **Importar el proyecto en un IDE compatible con Java EE (como Eclipse o IntelliJ IDEA).**
@@ -88,7 +88,7 @@ git clone https://github.com/tuUsuario/ClubDeportivoWebApp.git
    - 🔄 Ejecutar el servidor Tomcat y desplegar el proyecto.
 
 5. **Acceder a la aplicación:**
-   - 🌐 Abrir un navegador y navegar a la URL: `http://localhost:8080/ClubDeportivoWebApp` para visualizar el formulario y consultar la información de afiliados.
+   - 🌐 Abrir un navegador y navegar a la URL: `http://localhost:8080/JavaEE-ClubDeportivo` para visualizar el formulario y consultar la información de afiliados.
 
 ---
 
@@ -109,6 +109,11 @@ Desarrollado por **Sebastián Vega**
 
 ---
  
+## 📄 Licencia
+
+Este proyecto se encuentra bajo la Licencia GPL 3.0. Puedes usarlo, modificarlo y distribuirlo siempre que mantengas los mismos términos de licencia.
+
+
 Facultad de Ingeniería — Ingeniería de Sistemas 🧩
 **🏫 Universidad Pedagógica y Tecnológica de Colombia**  
 📍 Sogamoso, Boyacá 📍
