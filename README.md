@@ -109,9 +109,17 @@ Desarrollado por **Sebastián Vega**
 
 ---
  
-## 📄 Licencia
+## 📜 Licencia
 
-Este proyecto se encuentra bajo la Licencia GPL 3.0. Puedes usarlo, modificarlo y distribuirlo siempre que mantengas los mismos términos de licencia.
+Este repositorio se encuentra bajo la Licencia GPL 3.0.
+
+**Permisos:**
+- Uso comercial
+- Modificación
+- Distribución
+- Uso privado
+
+---
 
 
 Facultad de Ingeniería — Ingeniería de Sistemas 🧩
